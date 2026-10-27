@@ -8,6 +8,7 @@ UPIEB brings these settings together to support reproducible evaluation of under
 UPIEB currently contains four subsets. Each subset provides images captured at four linear polarization angles: 0°, 45°, 90°, and 135°.
 
 <img width="795" height="354" alt="image" src="https://github.com/user-attachments/assets/ad133ae6-b324-4ae4-805b-c8ec839ae4c7" />
+
 # Data Acquisition
 The supervised paired subset, Water Tank0, was collected in a water tank. Images were first captured under clear-water conditions and used as ground-truth (GT) references. Milk was then added in successive 1 mL increments, with a new set of polarization images captured after each addition. Each acquisition contains images at four linear polarization angles: 0°, 45°, 90°, and 135°.
 This procedure provides a sequence of increasingly turbid observations for each scene, together with its initial clear-water reference. The acquisition levels indicate cumulative milk additions within a sequence; they do not represent equivalent measured turbidity across different scenes or acquisition sessions.
