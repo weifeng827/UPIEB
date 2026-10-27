@@ -8,7 +8,9 @@ UPIEB brings these settings together to support reproducible evaluation of under
 
 # Dataset Overview
 UPIEB currently contains four subsets. Each subset provides images captured at four linear polarization angles: 0°, 45°, 90°, and 135°.
-<img width="733" height="269" alt="image" src="https://github.com/user-attachments/assets/7570167f-163d-439d-a9c4-b6cf23e74814" />
+
+<img width="795" height="354" alt="image" src="https://github.com/user-attachments/assets/ad133ae6-b324-4ae4-805b-c8ec839ae4c7" />
+
 
 # Data Acquisition
 The supervised paired subset, Water Tank0, was collected in a water tank. Images were first captured under clear-water conditions and used as ground-truth (GT) references. Milk was then added in successive 1 mL increments, with a new set of polarization images captured after each addition. Each acquisition contains images at four linear polarization angles: 0°, 45°, 90°, and 135°.
@@ -52,6 +54,7 @@ UPIEB is under active construction and expansion. The current release includes t
 # Citation
 Please cite our preliminary work if you find it helpful to your research. Our latest results are currently being submitted for publication. ❤️
 
+```text
 @ARTICLE{11267091,
   author={Kong, Weifeng and Huo, Guanying and Peng, Chao and Su, Yong and Cheng, Zhen},
   journal={IEEE Transactions on Computational Imaging}, 
@@ -62,3 +65,4 @@ Please cite our preliminary work if you find it helpful to your research. Our la
   pages={1668-1681},
   doi={10.1109/TCI.2025.3636757}
 }
+```
