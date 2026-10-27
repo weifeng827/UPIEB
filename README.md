@@ -48,7 +48,8 @@ UPIEB is under active construction and expansion. The current release includes t
 # Future releases will include:
 - Resolution evaluation data: Polarization images of resolution test charts for assessing spatial detail preservation and recovery.
 - Color fidelity evaluation data: Polarization images of standard color charts for assessing color distortion and restoration accuracy.
-- 
+- Underwater photogrammetry images will be added to help check if the underwater image restoration works in terms of geometric dimensions.
+
 # Dataset documentation and evaluation protocols will be updated as these extensions become available.
 
 # Citation
