@@ -20,8 +20,8 @@ This procedure provides a sequence of increasingly turbid observations for each 
 https://pan.baidu.com/s/5rgNNX2OX7UCp6iRjo07mwA 
 
 # Associated Benchmark Paper
-We are currently preparing a benchmark paper entitled “UPIEB: A Dataset and Benchmark for Underwater Polarization Image Enhancement.” The paper will describe the dataset construction, evaluation protocols, and comparative assessment of underwater polarization image enhancement methods.
-The dataset and documentation remain under active development. Paper details and citation information will be added to this repository when available.
+Our benchmark paper, “UPIEB: A Dataset and Benchmark for Underwater Polarization Image Enhancement,” is currently under review. It describes the dataset construction, evaluation protocols, and comparative assessment of underwater polarization image enhancement methods. We plan to make a preprint available on arXiv soon.
+The dataset and documentation remain under active development. The preprint link and citation information will be added to this repository when available.
 
 # Water Tank0: Paired Water-Tank Data
 Water Tank0 contains polarization observations of the same scene under clear-water and progressively more turbid conditions. Images are organized by scene and turbidity level, with four polarization-angle images in each acquisition group.
