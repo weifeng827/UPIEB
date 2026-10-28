@@ -1,4 +1,4 @@
-# UPIEB:A Dataset and Benchmark for Underwater Polarization Image Enhancement
+# UPIEB: An Underwater Polarization Image Enhancement Benchmark from Image Quality to Task Utility
 UPIEB is a dataset and benchmark for evaluating underwater polarization image enhancement across controlled water-tank experiments and natural underwater environments. It provides paired and unpaired polarization data to support supervised learning, full-reference evaluation, and validation without paired reference images. It also includes polarization images with salient-object masks to evaluate the downstream effects of image enhancement and support underwater salient object detection.
 # Background
 Underwater images suffer from scattering and wavelength-dependent absorption, which reduce contrast, obscure fine details, and introduce color distortion. Polarization imaging provides additional information about the polarization states of light, offering cues for distinguishing target signals from backscattered light.
