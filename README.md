@@ -15,7 +15,7 @@ This procedure provides a sequence of increasingly turbid observations for each 
 # Link
 https://pan.baidu.com/s/5rgNNX2OX7UCp6iRjo07mwA 
 
-![Uploading image.png…]()
+<img width="3603" height="3151" alt="555256187-208a0685-9226-4c02-8828-cd76232358a4" src="https://github.com/user-attachments/assets/ae428bd3-59c9-4ff0-8cda-cab82e3cc896" />
 
 # Associated Benchmark Paper
 Our benchmark paper, “UPIEB: A Dataset and Benchmark for Underwater Polarization Image Enhancement,” is currently under review. It describes the dataset construction, evaluation protocols, and comparative assessment of underwater polarization image enhancement methods. We plan to make a preprint available on arXiv soon.
