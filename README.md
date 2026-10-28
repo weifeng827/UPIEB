@@ -14,6 +14,9 @@ The supervised paired subset, Water Tank0, was collected in a water tank. Images
 This procedure provides a sequence of increasingly turbid observations for each scene, together with its initial clear-water reference. The acquisition levels indicate cumulative milk additions within a sequence; they do not represent equivalent measured turbidity across different scenes or acquisition sessions.
 # Link
 https://pan.baidu.com/s/5rgNNX2OX7UCp6iRjo07mwA 
+
+![Uploading image.png…]()
+
 # Associated Benchmark Paper
 Our benchmark paper, “UPIEB: A Dataset and Benchmark for Underwater Polarization Image Enhancement,” is currently under review. It describes the dataset construction, evaluation protocols, and comparative assessment of underwater polarization image enhancement methods. We plan to make a preprint available on arXiv soon.
 The dataset and documentation remain under active development. The preprint link and citation information will be added to this repository when available.
